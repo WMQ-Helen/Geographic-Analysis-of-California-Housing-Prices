@@ -37,5 +37,3 @@ The map reveals several noticeable spatial patterns.
 - Inland regions generally exhibit lower housing prices than coastal regions.
 - The dark red highlights clear geographic differences in housing values across California.
 
-Although this project focuses on visualization rather than statistical modeling, it demonstrates how GIS techniques can be used to explore spatial patterns before conducting further quantitative analysis.
-
