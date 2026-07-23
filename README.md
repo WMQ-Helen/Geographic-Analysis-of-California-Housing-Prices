@@ -36,4 +36,5 @@ The map reveals several noticeable spatial patterns.
 - Southern California also includes multiple areas with relatively high housing values.
 - Inland regions generally exhibit lower housing prices than coastal regions.
 - The dark red highlights clear geographic differences in housing values across California.
+- Map indicats that housing values are strongly associated with geographic location and residents paying level.
 
